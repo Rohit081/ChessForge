@@ -1,7 +1,7 @@
-ChessForge ♔
+#ChessForge ♔
 ChessForge is an open-source chess platform that brings the classic game of chess to the modern web. Built with performance, accessibility, and user experience in mind, ChessForge offers everything you need to play, learn, and improve your chess game.
 
-✨ Features
+#✨ Features
 Core Gameplay
 Real-time multiplayer chess with WebSocket connections
 Play against AI with multiple difficulty levels
@@ -15,7 +15,7 @@ Game analysis with computer evaluation and move suggestions
 Opening explorer with extensive opening database
 Endgame trainer for practicing crucial endgame positions
 
-Community Features
+#Community Features
 User profiles with rating tracking and game history
 Friend system with private messaging
 Tournaments with Swiss and round-robin formats
@@ -28,7 +28,7 @@ Dark/light mode support
 Accessibility features including screen reader support
 Multiple language support
 
-🚀 Getting Started
+#🚀 Getting Started
 Prerequisites
 Node.js 18+ and npm
 PostgreSQL 13+
